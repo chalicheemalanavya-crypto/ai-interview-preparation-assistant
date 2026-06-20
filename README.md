@@ -14,6 +14,8 @@ This app helps students prepare for interviews by generating questions and evalu
 - Streamlit
 
 ## Run Project
+Project URL:
+https://ai-interview-preparation-assistant-htjhcvbatwoepjtceuuunm.streamlit.app/
 
 ```bash
 pip install -r requirements.txt
